@@ -44,10 +44,10 @@
 		<em:localized>
 			<Description>
 				<em:locale>ar</em:locale>
-				<em:name>Private Tab</em:name>
-				<em:description>Adds private tabs</em:description>
+				<em:name>علامة تبويب خاصة</em:name>
+				<em:description>إضافة علامات تبويب خاصة</em:description>
 				<em:creator>Infocatcher</em:creator>
-				<em:translator>infinity</em:translator>
+				<em:translator>مالانهاية</em:translator>
 			</Description>
 		</em:localized>
 
